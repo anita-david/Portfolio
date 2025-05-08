@@ -5,7 +5,7 @@
   top: 2rem;
 }
 .toggle {
-  background-image: url("./sun.png");
+  background-image: url("/sun.png");
   background-color: var(--primary-color);
   background-size: 1.5rem 1.5rem;
   background-repeat: no-repeat;
