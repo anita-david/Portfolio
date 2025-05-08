@@ -8,37 +8,37 @@ export default function Portfolio() {
     {
       name: "Flashcards App",
       language: "React",
-      image: "./public/Flashcards.png",
+      image: "public/Flashcards.png",
       link: "https://anita-david.github.io/Flash-Cards/",
     },
     {
       name: "Weather API App",
       language: "Javascript",
-      image: "./public/Weather_API.png",
+      image: "public/Weather_API.png",
       link: "https://anita-david.github.io/Weather-API/",
     },
     {
       name: "Pokedex API",
       language: "Javascript",
-      image: "./public/Pokedex-API.png",
+      image: "public/Pokedex-API.png",
       link: "https://anita-david.github.io/Pokedex-API/",
     },
     {
       name: "Youtube Clone",
       language: "Javascript",
-      image: "./public/YouTube-Clone.png",
+      image: "public/YouTube-Clone.png",
       link: "https://anita-david.github.io/youtubeclone/",
     },
     {
       name: "Todo App",
       language: "Javascript",
-      image: "./public/Todo-App.png",
+      image: "public/Todo-App.png",
       link: "https://anita-david.github.io/todo/",
     },
     {
       name: "Test App",
       language: "Javascript",
-      image: "./public/Test-App.png",
+      image: "public/Test-App.png",
       link: "https://anita-david.github.io/test/",
     },
   ];
