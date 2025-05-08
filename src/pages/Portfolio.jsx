@@ -8,7 +8,7 @@ export default function Portfolio() {
     {
       name: "Flashcards App",
       language: "React",
-      image: "./Flashcards.png",
+      image: "./FlashCards.png",
       link: "https://anita-david.github.io/Flash-Cards/",
     },
     {
@@ -18,10 +18,10 @@ export default function Portfolio() {
       link: "https://anita-david.github.io/Weather-API/",
     },
     {
-      name: "Pokedex API",
+      name: "Amazon Clone",
       language: "Javascript",
-      image: "./Pokedex-API.png",
-      link: "https://anita-david.github.io/Pokedex-API/",
+      image: "./Amazon-clone.png",
+      link: "https://anita-david.github.io/Amazon-Clone/",
     },
     {
       name: "Youtube Clone",
