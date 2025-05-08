@@ -19,7 +19,7 @@
   }
 
   .toggle {
-    background-image: url("/public/night-mode.png");
+    background-image: url("./night-mode.png");
     background-color: var(--background-color);
     box-shadow: 0 0 5px var(--secondary-color);
   }
@@ -30,24 +30,24 @@
     border-left: 3px solid var(--secondary-color);
   }
   .education-icon {
-    background-image: url("public/graduation-cap-solid (1).svg");
+    background-image: url("./graduation-cap-solid (1).svg");
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
   }
   .experience-icon {
-    background-image: url("/briefcase-solid (3).svg");
+    background-image: url("./briefcase-solid (3).svg");
     height: 100%;
     width: 100%;
   }
   .email {
-    background-image: url("public/envelope-solid (1).svg");
+    background-image: url("./envelope-solid (1).svg");
     height: 20px;
     width: 20px;
     object-fit: cover;
   }
   .phone {
-    background-image: url("public/phone-solid (1).svg");
+    background-image: url("./phone-solid (1).svg");
     height: 20px;
     width: 20px;
     object-fit: cover;

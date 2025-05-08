@@ -9,8 +9,8 @@ export default function Navigation() {
             <img
               src={
                 isActive
-                  ? "public/house-solid (1).svg"
-                  : "public/house-solid.svg"
+                  ? "./house-solid (1).svg"
+                  : "./house-solid.svg"
               }
               alt="icon"
               width={24}
@@ -24,7 +24,7 @@ export default function Navigation() {
           {({ isActive }) => (
             <img
               src={
-                isActive ? "public/user-solid (1).svg" : "public/user-solid.svg"
+                isActive ? "./user-solid (1).svg" : "./user-solid.svg"
               }
               alt="icon"
               width={24}
@@ -39,8 +39,8 @@ export default function Navigation() {
             <img
               src={
                 isActive
-                  ? "public/briefcase-solid (1).svg"
-                  : "public/briefcase-solid (2).svg"
+                  ? "./briefcase-solid (1).svg"
+                  : "./briefcase-solid (2).svg"
               }
               alt="icon"
               width={24}
@@ -55,8 +55,8 @@ export default function Navigation() {
             <img
               src={
                 isActive
-                  ? "public/address-book-solid.svg"
-                  : "public/address-book-solid (1).svg"
+                  ? "./address-book-solid.svg"
+                  : "./address-book-solid (1).svg"
               }
               alt="icon"
               width={24}
