@@ -11,10 +11,10 @@ export default function About() {
         <p className="about-description-title">Skills</p>
       </div>
       <div className="about-skills-container">
-        <div className="about-skills">Html</div>
-        <div className="about-skills">CSS</div>
-        <div className="about-skills">Javascript</div>
         <div className="about-skills">React</div>
+        <div className="about-skills">Javascript</div>
+        <div className="about-skills">CSS</div>
+        <div className="about-skills">HTML</div>
       </div>
       <p className="about-description-title">Experience & Education</p>
       <div className="description-container">
@@ -25,8 +25,8 @@ export default function About() {
             </div>
             <div className="duration">2024 - Present</div>
           </div>
-          <div className="details">
-            Worked on a project that involved building the user interface of a web application using React.
+          <div className="details">s
+            Worked on several mini project that involved building the user interface of a web applications using React.
           </div>
           <div className="about-description-details">
             <div className="icon-container">

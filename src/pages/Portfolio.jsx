@@ -5,6 +5,18 @@ export default function Portfolio() {
   const [selectedItem, setSelectedItem] = useState(null);
 
   const info = [
+     {
+      name: "InstaSpots App",
+      language: "React",
+      image: "./InstaSpots.png",
+      link: "https://insta-spots-eta.vercel.app/",
+    },
+      {
+      name: "TodoList App",
+      language: "React",
+      image: "./TodoList.png",
+      link: "https://anita-david-todo-exam.vercel.app",
+    },
     {
       name: "Flashcards App",
       language: "React",

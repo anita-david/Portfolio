@@ -5,7 +5,7 @@ export default function Home() {
       <div className="home-profile-image-container">
         <img
           className="home-profile-image"
-          src="/Anita-David-Hero.png"
+          src="/AnitaDavid.jpg"
           alt=""
         />
       </div>
