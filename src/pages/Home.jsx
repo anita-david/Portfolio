@@ -17,9 +17,7 @@ export default function Home() {
           Frontend Developer
         </p>
         <p className="home-description">
-          This portfolio illustrates my journey as a frontend developer,
-          featuring a range of projects that demonstrate my design skills,
-          techniques, and achievements in creating impactful digital solutions.
+           Innovative Tech enthusiast and Frontend developer passionate about building intuitive, user-focused web experiences. I thrive on learning, problem-solving, and translating design into clean, functional applications. I'm eager to contribute to real-world projects, grow in collaborative environments, and bring fresh perspective into every team I join.
         </p>
       </div>
     </div>
