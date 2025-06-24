@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "../styles/Toggle.css";
 export default function Toggle() {
-  const [lightMode, setLightMode] = useState("true");
+  const [lightMode, setLightMode] = useState(false);
 
   function handleToggle() {
     setLightMode((prevMode) => {
