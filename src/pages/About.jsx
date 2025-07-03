@@ -25,8 +25,8 @@ export default function About() {
             </div>
             <div className="duration">2024 - Present</div>
           </div>
-          <div className="details">s
-            Worked on several mini project that involved building the user interface of a web applications using React.
+          <div className="details">
+          Worked on several mini project that involved building the user interface of a web applications using React.
           </div>
           <div className="about-description-details">
             <div className="icon-container">
