@@ -26,7 +26,7 @@ export default function About() {
             <div className="duration">2024 - Present</div>
           </div>
           <div className="details">
-          Worked on several mini project that involved building the user interface of a web applications using React.
+          Worked on several mini projects that involved building the user interface of a web applications using React.
           </div>
           <div className="about-description-details">
             <div className="icon-container">
@@ -43,7 +43,7 @@ export default function About() {
             <div className="icon-container">
              <div className="education-icon"></div>
             </div>
-            <div className="duration">2024 - Present</div>
+            <div className="duration">2024 -2025</div>
           </div>
           <div className="details">
            <p>Front-End Engineering</p>
