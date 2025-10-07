@@ -13,7 +13,8 @@ export default function About() {
       <div className="about-skills-container">
         <div className="about-skills">React</div>
         <div className="about-skills">Javascript</div>
-        <div className="about-skills">CSS</div>
+        <div className="about-skills">Typescript</div>
+        <div className="about-skills">Tailwind CSS</div>
         <div className="about-skills">HTML</div>
       </div>
       <p className="about-description-title">Experience & Education</p>
@@ -26,7 +27,10 @@ export default function About() {
             <div className="duration">2024 - Present</div>
           </div>
           <div className="details">
-          Worked on several mini projects that involved building the user interface of a web applications using React.
+          Collaborated with a team of product managers, frontend engineers, backend engineers, cloud engineers cybersecurity personnel  to design and build a Student Marketplace Platform using React 18+, React Router v6,  Tailwind CSS, Tanstack Query and Vite.
+Implemented reusable UI components, state management logic, and responsive layouts.
+Participated in peer code reviews, Git-based collaboration, and continuous integration.
+
           </div>
           <div className="about-description-details">
             <div className="icon-container">
