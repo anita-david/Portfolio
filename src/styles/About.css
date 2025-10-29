@@ -98,4 +98,8 @@
     display: flex;
     padding-bottom: 6rem;
   } 
+  .about-skills {
+      align-content: center;
+
+  }
 }
